@@ -1,0 +1,2 @@
+instrument_id,trade_date,quantity,price,fees,notes
+<instrument_id>,2024-01-02,100,50.25,1.5,Initial buy
