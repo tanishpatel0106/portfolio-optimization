@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Node
+node_modules/
+.next/
+
+# Data/cache
+*.sqlite
+market_data_cache.sqlite
+portfolio.db
+
+# Logs
+*.log
