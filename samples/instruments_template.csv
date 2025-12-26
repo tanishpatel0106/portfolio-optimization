@@ -1,0 +1,4 @@
+ticker,name,asset_class,listing_currency,region,tags
+AAPL,Apple Inc,Equity,USD,US,tech|large_cap
+SPY,SPDR S&P 500 ETF,ETF,USD,US,index
+EWJ,iShares MSCI Japan ETF,ETF,USD,JP,international
